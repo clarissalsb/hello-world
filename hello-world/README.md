@@ -16,4 +16,4 @@ Universidade Federal do Ceará
 | RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuario para que ele possa acessar o sistema| Não Iniciado|
 | RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuario para que ele possa acessar o sistema| Não Iniciado|
 | RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuario para que ele possa acessar o sistema| Não Iniciado|
-| RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuario para que ele possa acessar o sistema| Não Iniciado|
+| RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuario para que ele possa acessar o sistema|Iniciado|
